@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tercer commit 3:13
-=======
-quinto commit 3:31
->>>>>>> 20243ds085-002
+cuarto commit 3:22
